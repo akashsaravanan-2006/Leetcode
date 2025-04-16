@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0069-sqrtx) |
 | [1610-xor-operation-in-an-array](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1610-xor-operation-in-an-array) |
+| [2037-count-square-sum-triples](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2037-count-square-sum-triples) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
 ## Two Pointers
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2037-count-square-sum-triples](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2037-count-square-sum-triples) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
 ## Recursion
 |  |
