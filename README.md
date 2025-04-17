@@ -12,10 +12,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
+| [3421-count-pairs-that-form-a-complete-day-i](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0001-two-sum) |
+| [3421-count-pairs-that-form-a-complete-day-i](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -57,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1610-xor-operation-in-an-array](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1610-xor-operation-in-an-array) |
+## Counting
+|  |
+| ------- |
+| [3421-count-pairs-that-form-a-complete-day-i](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 <!---LeetCode Topics End-->
