@@ -10,8 +10,7 @@ void moveZeroes(int* nums, int numsSize) {
     m=n;
     for(i=n;i<numsSize;i++)
     {
-        nums[m]=0;
-        m++;
+        nums[i]=0;
 
     }
 }
