@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0162-find-peak-element) |
+| [0441-arranging-coins](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0441-arranging-coins) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0070-climbing-stairs) |
+| [0441-arranging-coins](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0441-arranging-coins) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1610-xor-operation-in-an-array](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [2037-count-square-sum-triples](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2037-count-square-sum-triples) |
