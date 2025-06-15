@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0441-arranging-coins](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0441-arranging-coins) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1610-xor-operation-in-an-array](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [2037-count-square-sum-triples](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2037-count-square-sum-triples) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1961-maximum-ice-cream-bars](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2715-k-items-with-the-maximum-sum) |
