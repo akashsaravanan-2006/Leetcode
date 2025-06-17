@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3321-type-of-triangle](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3321-type-of-triangle) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Hash Table
 |  |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2715-k-items-with-the-maximum-sum) |
 | [3321-type-of-triangle](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3321-type-of-triangle) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Two Pointers
 |  |
 | ------- |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2102-find-the-middle-index-in-array](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2102-find-the-middle-index-in-array) |
 | [2714-left-and-right-sum-differences](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2714-left-and-right-sum-differences) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Queue
 |  |
 | ------- |
