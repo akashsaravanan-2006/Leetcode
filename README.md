@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2715-k-items-with-the-maximum-sum](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2715-k-items-with-the-maximum-sum) |
 | [3321-type-of-triangle](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3321-type-of-triangle) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3859-maximum-product-of-two-digits](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3859-maximum-product-of-two-digits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1961-maximum-ice-cream-bars](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [2836-neither-minimum-nor-maximum](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 | [3321-type-of-triangle](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3321-type-of-triangle) |
+| [3859-maximum-product-of-two-digits](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3859-maximum-product-of-two-digits) |
 ## Bucket Sort
 |  |
 | ------- |
