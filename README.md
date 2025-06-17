@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2102-find-the-middle-index-in-array](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2102-find-the-middle-index-in-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
+| [2386-min-max-game](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2386-min-max-game) |
 | [2486-most-frequent-even-element](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2486-most-frequent-even-element) |
 | [2714-left-and-right-sum-differences](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
+| [2386-min-max-game](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2386-min-max-game) |
 | [3811-reverse-degree-of-a-string](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3811-reverse-degree-of-a-string) |
 ## Enumeration
 |  |
