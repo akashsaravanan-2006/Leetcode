@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0164-maximum-gap) |
 | [0283-move-zeroes](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2486-most-frequent-even-element](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2486-most-frequent-even-element) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
