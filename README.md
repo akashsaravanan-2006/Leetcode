@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0070-climbing-stairs) |
+| [0171-excel-sheet-column-number](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0441-arranging-coins](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0441-arranging-coins) |
 | [0866-rectangle-overlap](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0866-rectangle-overlap) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0125-valid-palindrome) |
+| [0171-excel-sheet-column-number](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0383-ransom-note](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0389-find-the-difference) |
