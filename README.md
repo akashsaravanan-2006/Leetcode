@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0389-find-the-difference) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0242-valid-anagram](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0389-find-the-difference) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0164-maximum-gap) |
+| [0242-valid-anagram](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0389-find-the-difference) |
 | [1961-maximum-ice-cream-bars](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [2836-neither-minimum-nor-maximum](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2836-neither-minimum-nor-maximum) |
