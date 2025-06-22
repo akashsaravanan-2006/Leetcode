@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0392-is-subsequence](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0392-is-subsequence) |
 ## Simulation
 |  |
 | ------- |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0070-climbing-stairs) |
+| [0392-is-subsequence](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0392-is-subsequence) |
 ## Memoization
 |  |
 | ------- |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0392-is-subsequence) |
 | [0657-robot-return-to-origin](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [2427-first-letter-to-appear-twice](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [3379-score-of-a-string](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3379-score-of-a-string) |
