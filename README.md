@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2727-number-of-senior-citizens](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2836-neither-minimum-nor-maximum](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
+| [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3321-type-of-triangle](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3321-type-of-triangle) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-first-letter-to-appear-twice](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2727-number-of-senior-citizens](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2819-remove-trailing-zeros-from-a-string) |
+| [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3379-score-of-a-string](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3379-score-of-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
