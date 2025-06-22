@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1610-xor-operation-in-an-array](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1610-xor-operation-in-an-array) |
+| [1761-count-sorted-vowel-strings](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1761-count-sorted-vowel-strings) |
 | [2037-count-square-sum-triples](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2037-count-square-sum-triples) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0392-is-subsequence) |
+| [1761-count-sorted-vowel-strings](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1761-count-sorted-vowel-strings) |
 ## Memoization
 |  |
 | ------- |
@@ -213,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Combinatorics
+|  |
+| ------- |
+| [1761-count-sorted-vowel-strings](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1761-count-sorted-vowel-strings) |
 <!---LeetCode Topics End-->
