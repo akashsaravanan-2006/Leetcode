@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2486-most-frequent-even-element](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2486-most-frequent-even-element) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3324-split-the-array](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3324-split-the-array) |
+| [3408-count-the-number-of-special-characters-i](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3412-permutation-difference-between-two-strings](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3379-score-of-a-string](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3379-score-of-a-string) |
+| [3408-count-the-number-of-special-characters-i](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3412-permutation-difference-between-two-strings](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3811-reverse-degree-of-a-string) |
