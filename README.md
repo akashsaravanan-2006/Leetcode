@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2427-first-letter-to-appear-twice](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2486-most-frequent-even-element](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2486-most-frequent-even-element) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2427-first-letter-to-appear-twice](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2486-most-frequent-even-element](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2486-most-frequent-even-element) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2391-strong-password-checker-ii](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2391-strong-password-checker-ii) |
 | [2427-first-letter-to-appear-twice](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2727-number-of-senior-citizens](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2727-number-of-senior-citizens) |
