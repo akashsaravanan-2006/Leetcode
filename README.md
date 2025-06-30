@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1751-slowest-key](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1751-slowest-key) |
 | [1961-maximum-ice-cream-bars](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [2102-find-the-middle-index-in-array](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2102-find-the-middle-index-in-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0657-robot-return-to-origin](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [1156-occurrences-after-bigram](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1156-occurrences-after-bigram) |
+| [1751-slowest-key](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1751-slowest-key) |
 | [1894-merge-strings-alternately](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2173-number-of-valid-words-in-a-sentence](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2173-number-of-valid-words-in-a-sentence) |
