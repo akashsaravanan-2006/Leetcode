@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1751-slowest-key](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1751-slowest-key) |
 | [1961-maximum-ice-cream-bars](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [2102-find-the-middle-index-in-array](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2102-find-the-middle-index-in-array) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2427-first-letter-to-appear-twice](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2486-most-frequent-even-element](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2486-most-frequent-even-element) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2427-first-letter-to-appear-twice](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2486-most-frequent-even-element](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2486-most-frequent-even-element) |
