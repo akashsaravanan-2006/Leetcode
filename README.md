@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [1156-occurrences-after-bigram](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1156-occurrences-after-bigram) |
 | [1532-reformat-the-string](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1532-reformat-the-string) |
+| [1542-consecutive-characters](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1542-consecutive-characters) |
 | [1751-slowest-key](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1751-slowest-key) |
 | [1894-merge-strings-alternately](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2128-reverse-prefix-of-word) |
