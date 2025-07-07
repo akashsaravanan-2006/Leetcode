@@ -8,7 +8,7 @@ char* greatestLetter(char* word) {
     for (i = 0; i < n; i++)
      {
         f = 0;
-        for (j = 0; j < k; j++) 
+        for (j = 0; j < i; j++) 
             if (word[i] == word[j]) 
             {
                 f = 1;
