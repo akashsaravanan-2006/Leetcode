@@ -25,7 +25,7 @@ char* greatestLetter(char* word) {
     {
         if (word[i] >= 'a' && word[i] <= 'z')
          {
-            for (j = 0; j < k; j++)
+            for (j = i+1; j < k; j++)
              {
                 if (toupper(word[i]) == word[j])
                  {
@@ -34,9 +34,9 @@ char* greatestLetter(char* word) {
                  }
             }
         } 
-        else if (word[i] >= 'A' && word[i] <= 'Z') 
+        else 
         {
-            for (j = 0; j < k; j++) 
+            for (j = i+1; j < k; j++) 
             {
                 if (tolower(word[i]) == word[j]) 
                     if (grt < word[i]) 
@@ -44,8 +44,6 @@ char* greatestLetter(char* word) {
             }
         }
     }
-
-    grt = toupper(grt);
     if (grt != '0') 
     {
         ans[0] = grt;
