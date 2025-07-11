@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1542-consecutive-characters](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1542-consecutive-characters) |
 | [1751-slowest-key](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1751-slowest-key) |
 | [1894-merge-strings-alternately](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1894-merge-strings-alternately) |
+| [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
 | [2128-reverse-prefix-of-word](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2173-number-of-valid-words-in-a-sentence](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2173-number-of-valid-words-in-a-sentence) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
