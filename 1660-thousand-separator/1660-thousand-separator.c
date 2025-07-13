@@ -32,7 +32,7 @@ char* thousandSeparator(int n) {
     else {
         for (i = 0; i < m; i++)
          {
-           if ((m - i) % 3 == 0 && i != 0) 
+           if ((m-i)%3 == 0 && i!=0) 
             {
                 ans[x++] = '.';
                 ans[x++] = a[i];
