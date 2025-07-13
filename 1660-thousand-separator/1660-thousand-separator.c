@@ -22,14 +22,6 @@ char* thousandSeparator(int n) {
         j--;
     }
     int x = 0;
-    if (m < 4) 
-    {
-        for (i = 0; i < m; i++)
-        ans[x++] = a[i];
-        ans[x] = '\0';
-        return ans;
-    } 
-    else {
         for (i = 0; i < m; i++)
          {
            if ((m-i)%3 == 0 && i!=0) 
@@ -42,7 +34,6 @@ char* thousandSeparator(int n) {
                 ans[x++] = a[i];
             }
         }
-    }
     ans[x] = '\0';
     return ans;
 }
