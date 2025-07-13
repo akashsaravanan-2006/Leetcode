@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1532-reformat-the-string](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1532-reformat-the-string) |
 | [1542-consecutive-characters](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1542-consecutive-characters) |
+| [1660-thousand-separator](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1660-thousand-separator) |
 | [1751-slowest-key](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1751-slowest-key) |
 | [1894-merge-strings-alternately](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
