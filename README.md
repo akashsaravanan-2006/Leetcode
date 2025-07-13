@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0441-arranging-coins) |
 | [0504-base-7](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0504-base-7) |
 | [0866-rectangle-overlap](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0866-rectangle-overlap) |
+| [1260-day-of-the-year](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1260-day-of-the-year) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1610-xor-operation-in-an-array](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1610-xor-operation-in-an-array) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0657-robot-return-to-origin](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [1156-occurrences-after-bigram](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1156-occurrences-after-bigram) |
+| [1260-day-of-the-year](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1260-day-of-the-year) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1532-reformat-the-string](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1532-reformat-the-string) |
 | [1542-consecutive-characters](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1542-consecutive-characters) |
