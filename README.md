@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0455-assign-cookies](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0392-is-subsequence) |
+| [0455-assign-cookies](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0455-assign-cookies) |
 | [1894-merge-strings-alternately](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0274-h-index) |
 | [0389-find-the-difference](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0455-assign-cookies](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0455-assign-cookies) |
 | [1961-maximum-ice-cream-bars](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2561-number-of-distinct-averages](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2561-number-of-distinct-averages) |
@@ -262,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0455-assign-cookies) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1961-maximum-ice-cream-bars](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
