@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0275-h-index-ii](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0455-assign-cookies) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0389-find-the-difference) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0347-top-k-frequent-elements](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Math
 |  |
 | ------- |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -247,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0164-maximum-gap) |
 | [0242-valid-anagram](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0274-h-index) |
+| [0347-top-k-frequent-elements](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0455-assign-cookies) |
@@ -263,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0164-maximum-gap) |
+| [0347-top-k-frequent-elements](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Radix Sort
 |  |
@@ -305,9 +311,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Number Theory
 |  |
 | ------- |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
