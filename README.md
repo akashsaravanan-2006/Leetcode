@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1284-four-divisors](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1284-four-divisors) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1751-slowest-key](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1751-slowest-key) |
 | [1961-maximum-ice-cream-bars](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [2722-prime-in-diagonal](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2722-prime-in-diagonal) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3415-check-if-grid-satisfies-conditions) |
 <!---LeetCode Topics End-->
