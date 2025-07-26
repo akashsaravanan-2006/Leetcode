@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-count-square-sum-triples](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2037-count-square-sum-triples) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
+| [2608-count-the-digits-that-divide-a-number](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2715-k-items-with-the-maximum-sum) |
 | [2722-prime-in-diagonal](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2722-prime-in-diagonal) |
