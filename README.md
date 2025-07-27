@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-maximum-difference-between-increasing-elements](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2159-two-out-of-three](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2159-two-out-of-three) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
+| [2316-count-hills-and-valleys-in-an-array](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2386-min-max-game](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2386-min-max-game) |
 | [2486-most-frequent-even-element](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2486-most-frequent-even-element) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
