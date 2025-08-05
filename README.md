@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Hash Table
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Binary Search
 |  |
 | ------- |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3859-maximum-product-of-two-digits](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3859-maximum-product-of-two-digits) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 ## Two Pointers
 |  |
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3324-split-the-array](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3324-split-the-array) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -385,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2722-prime-in-diagonal](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2722-prime-in-diagonal) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Quickselect
 |  |
 | ------- |
