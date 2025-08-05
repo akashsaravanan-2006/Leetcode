@@ -18,7 +18,7 @@ int minOperations(int* nums, int numsSize, int k) {
     {
     if(nums[i]>k)
     c++;
-    if(nums[i]<k && nums[i]!=k)
+    if(nums[i]<k)
     return -1;
     }
     return c;
