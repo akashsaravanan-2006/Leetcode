@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3415-check-if-grid-satisfies-conditions](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3415-check-if-grid-satisfies-conditions) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3408-count-the-number-of-special-characters-i](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3412-permutation-difference-between-two-strings](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Binary Search
