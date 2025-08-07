@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1751-slowest-key](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1751-slowest-key) |
 | [1848-sum-of-unique-elements](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1848-sum-of-unique-elements) |
