@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0441-arranging-coins) |
 | [0504-base-7](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0504-base-7) |
@@ -209,9 +210,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0231-power-of-two) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0389-find-the-difference) |
 | [1610-xor-operation-in-an-array](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1610-xor-operation-in-an-array) |
