@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0414-third-maximum-number](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0455-assign-cookies) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0455-assign-cookies) |
 | [1217-relative-sort-array](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1217-relative-sort-array) |
