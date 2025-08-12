@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0383-ransom-note) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0205-isomorphic-strings](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0383-ransom-note) |
