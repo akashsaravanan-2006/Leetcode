@@ -307,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2173-number-of-valid-words-in-a-sentence](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2173-number-of-valid-words-in-a-sentence) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2235-capitalize-the-title](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2235-capitalize-the-title) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2365-percentage-of-letter-in-string](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2365-percentage-of-letter-in-string) |
