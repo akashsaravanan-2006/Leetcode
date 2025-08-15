@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0441-arranging-coins) |
 | [0504-base-7](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0504-base-7) |
@@ -224,11 +225,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0342-power-of-four) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0389-find-the-difference) |
 | [1610-xor-operation-in-an-array](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [2159-two-out-of-three](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2159-two-out-of-three) |
