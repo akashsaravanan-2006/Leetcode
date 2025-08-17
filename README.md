@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2341-count-prefixes-of-a-given-string](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2386-min-max-game](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2386-min-max-game) |
 | [2486-most-frequent-even-element](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2486-most-frequent-even-element) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2235-capitalize-the-title](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2235-capitalize-the-title) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
+| [2341-count-prefixes-of-a-given-string](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2365-percentage-of-letter-in-string](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2365-percentage-of-letter-in-string) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
