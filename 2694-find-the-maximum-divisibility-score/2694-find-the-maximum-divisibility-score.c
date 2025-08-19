@@ -14,10 +14,7 @@ int maxDivScore(int* nums, int numsSize, int* divisors, int divisorsSize) {
    grti=divisors[i];
    }
    else if(grt==c && grti>divisors[i])
-   {
-   grt=c;
    grti=divisors[i];
-   }
    }
    return grti;
 
