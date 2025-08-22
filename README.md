@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0389-find-the-difference) |
 | [1054-complement-of-base-10-integer](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1054-complement-of-base-10-integer) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0392-is-subsequence) |
 | [1761-count-sorted-vowel-strings](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1761-count-sorted-vowel-strings) |
 ## Memoization
