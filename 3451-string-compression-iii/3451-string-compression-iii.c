@@ -14,7 +14,7 @@ if(word[i]!=word[i+1])
        }
        else
        {
-          while(c!=0)
+          while(c>0)
           {
             if(c>9)
             {
