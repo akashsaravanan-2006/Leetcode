@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1848-sum-of-unique-elements](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [1904-second-largest-digit-in-a-string](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1904-second-largest-digit-in-a-string) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2159-two-out-of-three](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2159-two-out-of-three) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2427-first-letter-to-appear-twice](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1848-sum-of-unique-elements](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1848-sum-of-unique-elements) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2427-first-letter-to-appear-twice](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2486-most-frequent-even-element](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2486-most-frequent-even-element) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1954-replace-all-digits-with-characters](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1954-replace-all-digits-with-characters) |
 | [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2128-reverse-prefix-of-word](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2173-number-of-valid-words-in-a-sentence](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2173-number-of-valid-words-in-a-sentence) |
