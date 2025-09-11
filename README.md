@@ -351,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2825-minimize-string-length](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2825-minimize-string-length) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2886-faulty-keyboard](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2886-faulty-keyboard) |
+| [2887-sort-vowels-in-a-string](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3379-score-of-a-string](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3379-score-of-a-string) |
 | [3396-valid-word](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3396-valid-word) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2561-number-of-distinct-averages](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2836-neither-minimum-nor-maximum](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2836-neither-minimum-nor-maximum) |
+| [2887-sort-vowels-in-a-string](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [2892-check-if-array-is-good](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2892-check-if-array-is-good) |
 | [3321-type-of-triangle](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3321-type-of-triangle) |
 | [3334-apple-redistribution-into-boxes](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3334-apple-redistribution-into-boxes) |
