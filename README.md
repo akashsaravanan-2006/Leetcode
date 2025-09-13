@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Binary Search
 |  |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3324-split-the-array](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3324-split-the-array) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Dynamic Programming
 |  |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3811-reverse-degree-of-a-string) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3893-generate-tag-for-video-caption](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3893-generate-tag-for-video-caption) |
 ## Sorting
 |  |
