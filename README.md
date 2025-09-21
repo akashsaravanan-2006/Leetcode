@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2386-min-max-game](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2386-min-max-game) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2886-faulty-keyboard](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2886-faulty-keyboard) |
+| [3447-clear-digits](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3447-clear-digits) |
 | [3540-hash-divided-string](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3540-hash-divided-string) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3396-valid-word](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3396-valid-word) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3412-permutation-difference-between-two-strings](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
+| [3447-clear-digits](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3451-string-compression-iii) |
 | [3540-hash-divided-string](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3540-hash-divided-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
@@ -457,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1818-maximum-score-from-removing-substrings](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2128-reverse-prefix-of-word](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2128-reverse-prefix-of-word) |
+| [3447-clear-digits](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3447-clear-digits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
