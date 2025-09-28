@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [0866-rectangle-overlap](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0866-rectangle-overlap) |
 | [1260-day-of-the-year](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1260-day-of-the-year) |
+| [1274-number-of-days-between-two-dates](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1274-number-of-days-between-two-dates) |
 | [1284-four-divisors](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1284-four-divisors) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [1156-occurrences-after-bigram](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1156-occurrences-after-bigram) |
 | [1260-day-of-the-year](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1260-day-of-the-year) |
+| [1274-number-of-days-between-two-dates](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1274-number-of-days-between-two-dates) |
 | [1297-maximum-number-of-balloons](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1532-reformat-the-string](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1532-reformat-the-string) |
