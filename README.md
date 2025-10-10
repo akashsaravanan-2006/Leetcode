@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [2551-apply-operations-to-an-array](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2561-number-of-distinct-averages](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2694-find-the-maximum-divisibility-score](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2694-find-the-maximum-divisibility-score) |
 | [2714-left-and-right-sum-differences](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2714-left-and-right-sum-differences) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [2551-apply-operations-to-an-array](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2561-number-of-distinct-averages](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2561-number-of-distinct-averages) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Simulation
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2386-min-max-game](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2386-min-max-game) |
+| [2551-apply-operations-to-an-array](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2886-faulty-keyboard](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2886-faulty-keyboard) |
 | [3447-clear-digits](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3447-clear-digits) |
