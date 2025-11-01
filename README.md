@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0874-backspace-string-compare](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0874-backspace-string-compare) |
 | [0958-sort-array-by-parity-ii](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0657-robot-return-to-origin) |
+| [0874-backspace-string-compare](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0874-backspace-string-compare) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2386-min-max-game](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2386-min-max-game) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0551-student-attendance-record-i](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0657-robot-return-to-origin) |
+| [0874-backspace-string-compare](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0874-backspace-string-compare) |
 | [1156-occurrences-after-bigram](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1156-occurrences-after-bigram) |
 | [1260-day-of-the-year](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1260-day-of-the-year) |
 | [1274-number-of-days-between-two-dates](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1274-number-of-days-between-two-dates) |
@@ -482,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0020-valid-parentheses) |
+| [0874-backspace-string-compare](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0874-backspace-string-compare) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2128-reverse-prefix-of-word](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [3447-clear-digits](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3447-clear-digits) |
