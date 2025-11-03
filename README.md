@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0041-first-missing-positive](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0041-first-missing-positive) |
 | [0088-merge-sorted-array](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0041-first-missing-positive) |
 | [0202-happy-number](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0242-valid-anagram) |
