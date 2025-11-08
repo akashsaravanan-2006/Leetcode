@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0041-first-missing-positive) |
+| [0074-search-a-2d-matrix](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0162-find-peak-element) |
 | [0275-h-index-ii](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0275-h-index-ii) |
@@ -521,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [2722-prime-in-diagonal](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2722-prime-in-diagonal) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3415-check-if-grid-satisfies-conditions) |
