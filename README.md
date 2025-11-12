@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3790-fruits-into-baskets-ii](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
+| [4012-earliest-time-to-finish-one-task](https://github.com/akashsaravanan-2006/Leetcode/tree/master/4012-earliest-time-to-finish-one-task) |
 | [4058-compute-alternating-sum](https://github.com/akashsaravanan-2006/Leetcode/tree/master/4058-compute-alternating-sum) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/akashsaravanan-2006/Leetcode/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Hash Table
