@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0874-backspace-string-compare](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0874-backspace-string-compare) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2288-count-operations-to-obtain-zero](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2235-capitalize-the-title](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2235-capitalize-the-title) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2365-percentage-of-letter-in-string](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2365-percentage-of-letter-in-string) |
