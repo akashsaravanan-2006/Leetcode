@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3227-find-missing-and-repeated-values](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3321-type-of-triangle](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3321-type-of-triangle) |
 | [3324-split-the-array](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3324-split-the-array) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2847-find-maximum-number-of-string-pairs](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2892-check-if-array-is-good](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2892-check-if-array-is-good) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3227-find-missing-and-repeated-values](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3324-split-the-array](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3324-split-the-array) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2715-k-items-with-the-maximum-sum) |
 | [2722-prime-in-diagonal](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2722-prime-in-diagonal) |
+| [3227-find-missing-and-repeated-values](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3321-type-of-triangle) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -539,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [2722-prime-in-diagonal](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2722-prime-in-diagonal) |
+| [3227-find-missing-and-repeated-values](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3415-check-if-grid-satisfies-conditions) |
 ## Segment Tree
 |  |
