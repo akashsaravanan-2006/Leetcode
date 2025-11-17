@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1751-slowest-key](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1751-slowest-key) |
 | [1848-sum-of-unique-elements](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1848-sum-of-unique-elements) |
@@ -512,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0874-backspace-string-compare](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0874-backspace-string-compare) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2128-reverse-prefix-of-word](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2128-reverse-prefix-of-word) |
@@ -568,4 +570,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0496-next-greater-element-i) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
