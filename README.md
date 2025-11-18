@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4012-earliest-time-to-finish-one-task](https://github.com/akashsaravanan-2006/Leetcode/tree/master/4012-earliest-time-to-finish-one-task) |
 | [4058-compute-alternating-sum](https://github.com/akashsaravanan-2006/Leetcode/tree/master/4058-compute-alternating-sum) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/akashsaravanan-2006/Leetcode/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
+| [4107-find-missing-elements](https://github.com/akashsaravanan-2006/Leetcode/tree/master/4107-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/akashsaravanan-2006/Leetcode/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
+| [4107-find-missing-elements](https://github.com/akashsaravanan-2006/Leetcode/tree/master/4107-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -460,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3334-apple-redistribution-into-boxes](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3859-maximum-product-of-two-digits](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3859-maximum-product-of-two-digits) |
+| [4107-find-missing-elements](https://github.com/akashsaravanan-2006/Leetcode/tree/master/4107-find-missing-elements) |
 ## Bucket Sort
 |  |
 | ------- |
