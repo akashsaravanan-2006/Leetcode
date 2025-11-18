@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0506-relative-ranks) |
 | [0575-distribute-candies](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0575-distribute-candies) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0932-monotonic-array](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0932-monotonic-array) |
 | [0948-sort-an-array](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
