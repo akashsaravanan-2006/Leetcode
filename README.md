@@ -378,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0874-backspace-string-compare) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0981-delete-columns-to-make-sorted](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0981-delete-columns-to-make-sorted) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1156-occurrences-after-bigram](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1156-occurrences-after-bigram) |
 | [1260-day-of-the-year](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1260-day-of-the-year) |
 | [1274-number-of-days-between-two-dates](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1274-number-of-days-between-two-dates) |
@@ -531,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0874-backspace-string-compare](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0874-backspace-string-compare) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
