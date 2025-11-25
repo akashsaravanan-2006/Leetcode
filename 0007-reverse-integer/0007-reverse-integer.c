@@ -1,5 +1,5 @@
 int reverse(int x){
-    int r;
+  int r;
     long s;
     s=0;
     
