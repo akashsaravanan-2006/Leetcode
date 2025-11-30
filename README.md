@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [0981-delete-columns-to-make-sorted](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0981-delete-columns-to-make-sorted) |
+| [1051-height-checker](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1051-height-checker) |
 | [1217-relative-sort-array](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1217-relative-sort-array) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1284-four-divisors](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1284-four-divisors) |
@@ -467,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0506-relative-ranks) |
 | [0948-sort-an-array](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
+| [1051-height-checker](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1051-height-checker) |
 | [1217-relative-sort-array](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1217-relative-sort-array) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
@@ -519,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0274-h-index](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0274-h-index) |
 | [0948-sort-an-array](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0948-sort-an-array) |
+| [1051-height-checker](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1051-height-checker) |
 | [1217-relative-sort-array](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1217-relative-sort-array) |
 | [1961-maximum-ice-cream-bars](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
 ## Prefix Sum
