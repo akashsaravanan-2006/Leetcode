@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [0981-delete-columns-to-make-sorted](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0981-delete-columns-to-make-sorted) |
+| [1004-max-consecutive-ones-iii](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1051-height-checker](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1051-height-checker) |
 | [1217-relative-sort-array](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1217-relative-sort-array) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0441-arranging-coins](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0441-arranging-coins) |
+| [1004-max-consecutive-ones-iii](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [3790-fruits-into-baskets-ii](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Divide and Conquer
@@ -539,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [2102-find-the-middle-index-in-array](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2102-find-the-middle-index-in-array) |
 | [2714-left-and-right-sum-differences](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3427-sum-of-variable-length-subarrays) |
@@ -624,5 +627,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 <!---LeetCode Topics End-->
