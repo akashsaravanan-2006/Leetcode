@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2847-find-maximum-number-of-string-pairs](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2892-check-if-array-is-good](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2892-check-if-array-is-good) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [3074-apple-redistribution-into-boxes](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -493,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2836-neither-minimum-nor-maximum](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 | [2887-sort-vowels-in-a-string](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [2892-check-if-array-is-good](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2892-check-if-array-is-good) |
+| [3074-apple-redistribution-into-boxes](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3321-type-of-triangle](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3321-type-of-triangle) |
 | [3334-apple-redistribution-into-boxes](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -522,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2715-k-items-with-the-maximum-sum) |
+| [3074-apple-redistribution-into-boxes](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3334-apple-redistribution-into-boxes](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
