@@ -3,9 +3,9 @@ class Solution {
         String n1=Integer.toBinaryString(start);
         String n2=Integer.toBinaryString(goal);
         int x=Math.max(n1.length(), n2.length());
-        while(n1.length()<x) 
+        for(int i=n1.length();i<x;i++)
         n1="0"+n1;
-        while(n2.length()<x)
+        for(int i=n2.length();i<x;i++)
         n2="0"+n2;
         int i=0,c=0;
         while(i<x) 
