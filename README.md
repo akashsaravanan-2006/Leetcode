@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3321-type-of-triangle) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3859-maximum-product-of-two-digits](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3859-maximum-product-of-two-digits) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2561-number-of-distinct-averages](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2561-number-of-distinct-averages) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Simulation
 |  |
 | ------- |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-first-letter-to-appear-twice](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Counting
 |  |
 | ------- |
@@ -471,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3540-hash-divided-string](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3540-hash-divided-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
 | [3636-check-balanced-string](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3636-check-balanced-string) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3811-reverse-degree-of-a-string) |
