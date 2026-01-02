@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0932-monotonic-array](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0932-monotonic-array) |
 | [0948-sort-an-array](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0981-delete-columns-to-make-sorted](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0981-delete-columns-to-make-sorted) |
 | [1004-max-consecutive-ones-iii](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1051-height-checker](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1051-height-checker) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0575-distribute-candies) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1217-relative-sort-array](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1217-relative-sort-array) |
 | [1297-maximum-number-of-balloons](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1319-unique-number-of-occurrences](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1319-unique-number-of-occurrences) |
