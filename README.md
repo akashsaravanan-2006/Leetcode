@@ -295,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2561-number-of-distinct-averages](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2561-number-of-distinct-averages) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
+| [3794-reverse-string-prefix](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3794-reverse-string-prefix) |
 ## Simulation
 |  |
 | ------- |
@@ -490,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3794-reverse-string-prefix](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3794-reverse-string-prefix) |
 | [3811-reverse-degree-of-a-string](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3811-reverse-degree-of-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3893-generate-tag-for-video-caption](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3893-generate-tag-for-video-caption) |
