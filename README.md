@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3206-find-common-elements-between-two-arrays](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3254-find-the-power-of-k-size-subarrays-i](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3321-type-of-triangle](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3321-type-of-triangle) |
 | [3324-split-the-array](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3324-split-the-array) |
 | [3334-apple-redistribution-into-boxes](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3334-apple-redistribution-into-boxes) |
@@ -665,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [3254-find-the-power-of-k-size-subarrays-i](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 ## Trie
 |  |
 | ------- |
