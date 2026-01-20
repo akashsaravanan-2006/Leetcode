@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0441-arranging-coins) |
 | [0504-base-7](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0504-base-7) |
 | [0728-self-dividing-numbers](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0728-self-dividing-numbers) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0866-rectangle-overlap](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0866-rectangle-overlap) |
 | [1260-day-of-the-year](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1260-day-of-the-year) |
 | [1274-number-of-days-between-two-dates](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1274-number-of-days-between-two-dates) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0476-number-complement) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1054-complement-of-base-10-integer](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1054-complement-of-base-10-integer) |
 | [1610-xor-operation-in-an-array](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [2159-two-out-of-three](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2159-two-out-of-three) |
