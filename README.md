@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1389-create-target-array-in-the-given-order](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1390-four-divisors](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1390-four-divisors) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0874-backspace-string-compare) |
+| [1389-create-target-array-in-the-given-order](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1929-concatenation-of-array](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
