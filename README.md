@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0674-longest-continuous-increasing-subsequence](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0682-baseball-game) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0932-monotonic-array](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0932-monotonic-array) |
 | [0948-sort-an-array](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0441-arranging-coins](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0441-arranging-coins) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1004-max-consecutive-ones-iii](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
