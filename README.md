@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1389-create-target-array-in-the-given-order](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1390-four-divisors](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1390-four-divisors) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0476-number-complement](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0476-number-complement) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1054-complement-of-base-10-integer](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1054-complement-of-base-10-integer) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1610-xor-operation-in-an-array](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [2159-two-out-of-three](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2159-two-out-of-three) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1297-maximum-number-of-balloons](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1297-maximum-number-of-balloons) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1848-sum-of-unique-elements](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1848-sum-of-unique-elements) |
@@ -529,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/akashsaravanan-2006/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1051-height-checker](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1051-height-checker) |
 | [1217-relative-sort-array](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1217-relative-sort-array) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
