@@ -460,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1751-slowest-key](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1751-slowest-key) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
