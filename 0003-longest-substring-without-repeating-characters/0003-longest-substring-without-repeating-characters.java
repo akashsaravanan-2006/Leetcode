@@ -4,7 +4,6 @@ class Solution {
         String ans="";
         if(s.length()==0)
         return 0;
-        System.out.println(s.length());
         if(s.trim().length()==0)
         return 1;
         char a[]=s.toCharArray();
