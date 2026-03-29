@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-sum-of-unique-elements](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [1929-concatenation-of-array](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1961-maximum-ice-cream-bars](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2102-find-the-middle-index-in-array](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2102-find-the-middle-index-in-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -484,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1904-second-largest-digit-in-a-string](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1954-replace-all-digits-with-characters](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1954-replace-all-digits-with-characters) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1970-sorting-the-sentence](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1970-sorting-the-sentence) |
 | [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/akashsaravanan-2006/Leetcode/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/akashsaravanan-2006/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
