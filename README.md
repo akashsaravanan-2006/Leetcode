@@ -540,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3811-reverse-degree-of-a-string](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3811-reverse-degree-of-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3893-generate-tag-for-video-caption](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3893-generate-tag-for-video-caption) |
+| [3931-check-adjacent-digit-differences](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3931-check-adjacent-digit-differences) |
 ## Sorting
 |  |
 | ------- |
