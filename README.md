@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3866-first-unique-even-element](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3866-first-unique-even-element) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
+| [3921-score-validator](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3921-score-validator) |
 | [3925-concatenate-array-with-reverse](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 | [4012-earliest-time-to-finish-one-task](https://github.com/akashsaravanan-2006/Leetcode/tree/master/4012-earliest-time-to-finish-one-task) |
 | [4058-compute-alternating-sum](https://github.com/akashsaravanan-2006/Leetcode/tree/master/4058-compute-alternating-sum) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3790-fruits-into-baskets-ii](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3811-reverse-degree-of-a-string](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3811-reverse-degree-of-a-string) |
 | [3893-generate-tag-for-video-caption](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3893-generate-tag-for-video-caption) |
+| [3921-score-validator](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3921-score-validator) |
 | [3925-concatenate-array-with-reverse](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 | [4058-compute-alternating-sum](https://github.com/akashsaravanan-2006/Leetcode/tree/master/4058-compute-alternating-sum) |
 ## Enumeration
@@ -542,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3811-reverse-degree-of-a-string](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3811-reverse-degree-of-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3893-generate-tag-for-video-caption](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3893-generate-tag-for-video-caption) |
+| [3921-score-validator](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3921-score-validator) |
 | [3931-check-adjacent-digit-differences](https://github.com/akashsaravanan-2006/Leetcode/tree/master/3931-check-adjacent-digit-differences) |
 ## Sorting
 |  |
